@@ -6,4 +6,4 @@
 
 ### If you would like to run the JARs:
 * > java -jar [name].jar 
-* **You should be the current directory of the JAR**
+* **You should be the current directory of the JAR, which is in bin/me/ayush/chatApp**
